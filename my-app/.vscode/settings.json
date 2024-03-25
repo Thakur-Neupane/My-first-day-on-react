@@ -1,0 +1,13 @@
+{
+    "json.schemas": [
+
+        {
+            "fileMatch": [
+                "/myfile"
+            ],
+            "url": "schemaURL"
+        }
+
+    ],
+    "json.trace.server": "off"
+}
